@@ -1,0 +1,608 @@
+@relation news
+
+@attribute title string
+@attribute label {fake,real}
+
+@data
+" WATCH: Delusional Trump Fans Lash Out At Fox Host For Reporting Facts Of Uranium One Deal",fake
+" Roy Moore Supporting Republican LOSES It After Being Called An Extremist",fake
+" That Story Trump Just Told The Press About Obama And Air Force One NEVER Happened",fake
+" This 4-Year Old Tweet From Donald Trump Shows Us He's AT LEAST As Perverted As Roy Moore",fake
+" OOPS: Trump Judicial Nominee Didn't Tell Congress About Marriage To White House Attorney",fake
+" Trump Laughs After Philippine Leader Calls Journalists 'Spies' In Country Where Journalists Are Routinely Murdered",fake
+" Watch: Joe Biden Just Wrecked Trump In Six Words And It's Hilarious",fake
+" BUSTED: Leaked Documents Prove Trump Took Laundered Money From Russian Bank",fake
+" Perverted GOP State Rep. Corners Lobbyistspace Tries To Force Her To Help With His 'Raging B**ner'",fake
+" All Of Roy Moore's Former Colleagues Knew He Liked 'Dating' Teenage Girls",fake
+" WATCH: Christian Right Founder Condemns Them For Supporting Nazis And Sexual Misconduct",fake
+" Conservative 'Christian' Leader Defends Pedophile GOP Candidate Roy Moore",fake
+" Trump Throws Intelligence Community Under The Bus To Side With Putin Despite Strong Evidence Of Russian Meddling",fake
+" This Old Mike Pence Tweet Sure Is Uncomfortable Now That The G In MAGA Means Grope",fake
+" Sean Hannity Just Said Child Molestation Is OK If It's 'Consensual' (VIDEO)",fake
+" Newsweek Just Made Their BEST Cover Ever And People Are Freaking Out",fake
+" Alabama Republican Just Defended Pedophilia Using The Bible",fake
+" GOP Senate Candidate Turns Out To Be A Disgusting Child Molester",fake
+" Senate Democrats Have Been Sneaking Around Behind GOP's Back To Unravel Trump Administration",fake
+" Sunday's Massacre In Texas Bumped Columbine Out Of The Top Ten Deadliest US Mass Shootings",fake
+" Sean Hannity Barely Spends 6 Seconds On Last Night's Drubbing ' Revisits Trump 'Victory' Instead",fake
+" Maine Voters Tell Trump To Go F*ck Himselfspace Expand Medicaid Through Obamacare",fake
+" WATCH: Rick Santorum Torches Trump For Not Taking Responsibility For Electoral Bloodbath",fake
+" Trump Seething After Humiliating Virginia Electionsspace Throws Ed Gillespie Under The Bus",fake
+" The Resistance Just Gave Trump A Huge F**CK YOU On Election Night",fake
+" Trump's Justice Dept. Realizes Prosecuting Woman For Laughing Is Stupid ' Drops Case Entirely",fake
+" Trump Jr. Goes Full Dumba** On Twitter By Promoting Wrong Day Of Virginia Election",fake
+" Trump Just Openly Called For A Third World War (VIDEO)",fake
+" OOPS: Trump Agrees That People Like Him Should Be Treated 'Harshly' For Milking Their Country",fake
+" Miss Texas Gave A VERY Unexpected Answer When Asked About Trumpspace And Republicans Are Furious",fake
+" Trump Is Trying To Make Facebook Give Him Personal Info Of People Who Criticize Him",fake
+" Multiple Witnesses Confirm: The Pee Pee Tapes Are Real",fake
+" Fox News Just Completed Transformation Into Safe Space For Fragilespace Snowflakey Donald Trump",fake
+" Trump Tells Japanese Diplomats He Never Knew There Were So Many Countries In The World",fake
+" Latest From Conservatives: God Was Answering Victims' Prayers By Letting Them Get Shot",fake
+" University Of Texas Police Kick Humiliated Nazis Off Campus Before They Could Start Trouble",fake
+" Russian Lawyer Drops Bomb On Donald Trump Jr.; Alleges Direct Pay-To-Play Attempt",fake
+" WATCH: Republican Lawmaker Claims Forcing Women To Have Babies Will Help The Economy",fake
+" Someone Tried To Cash In On Antifa With These $375 Jackets And Twitter Had A Field Day",fake
+" Senator Delivers SCATHING Rebuke To His GOP Colleagues ' 'No One Is Safe' Because Of You",fake
+" A Reminder Of How Much The NRA Has Spent On Trump In Wake Of ANOTHER Mass Shooting",fake
+" 27 People Murdered In Texas Mass Shootingspace And Trump's Response Is Classic Racist",fake
+" Trump Went To Japan And Immediately Proved He Knows Zilch About How Missiles Work",fake
+" The Walls Close In On Trump As His Disgraced National Security Adviser Faces Indictment From Team Mueller",fake
+" Former Watergate Prosecutor: Mueller Could Gag Trump On Russia",fake
+" GOP Lawmaker Links Abortion To The Economy In One Bizarre And Horribly Offensive Rant (VIDEO)",fake
+" Hawaiians Had The Perfect Signs To Infuriate Trump When He Landed There",fake
+" Trump Wants The Supreme Court To Punish Lawyers Who Win Cases Against His Administration",fake
+" Hypocrite Ivanka Trump HUMILIATED For Calling For End To Sexual Harassment While Predator Dad Is In Japan With Her",fake
+" After Pulling NFL-Related Adsspace Papa John's Gets An Unlikely Sponsor Of Their Own: Nazis",fake
+" Mike Pence Gets A Special Gift In His Office Mail Every Monthspace And He Probably Burns It (VIDEO)",fake
+" With Just Two Wordsspace GOP Congressman ADMITS He Doesn't Answer To His Constituents",fake
+" One Hero Made Donald Trump Panic And Made Twitter Celebrate (DETAILS)",fake
+" Sarah Huckabee Sanders SHREDDED By L.A. Times For Truth-Twisting ' This Is Brilliant",fake
+" Trump's Energy Secretary Has An Idea For Stopping Sexual Assault ' This Is INSANE",fake
+" Jeff Sessions: Ohspace You Mean THAT Russian Contact. I Remember Now!",fake
+" 'Alt-Right' White House Reporter Gets Fooled By Fake Tweetspace Reports Upcoming Civil War",fake
+" Papa John Attacks The NFL And First Amendment After His Sh*tty Pizza Loses Him A Small Fortune",fake
+" Trump Is Literally Sabotaging The Case Against The NYC Terrorist By Not Keeping His Mouth Shut",fake
+" 4 Reasons Why This Little-Known Trump Aide Is More Dangerous To Trump Than Paul Manafort",fake
+" Former Ambassador Accuses Trump Of Violating Constitution Every Time A Diplomat Visits",fake
+" Trump Is Throwing Jared Kushner Under The Bus Over Mueller Indictments",fake
+" Russians Fooled Dumbass Conservatives With Meme Of Hillary Fistfighting Jesus",fake
+" Chuck Schumer Just NUKED Trump For Blaming Him For Terrorist Attack",fake
+" Watch GOP Senator Almost Knock Over American Flags As He Dodges Indictment Questions (VIDEO)",fake
+" WATCH: Trump's Chief Of Staff John Kelly Just Admitted That He Doesn't Think There Was Anything Wrong With Slavery",fake
+" Legal Community SCHOOLS Trump's Lawyer For Claiming Collusion Is Not A Crime",fake
+" WATCH: Hannity Loses His Sh*t And Refers To Hillary As 'President Clinton' During UNHINGED Rant",fake
+" Seth Meyers Summed Up Monday's Events Perfectly [VIDEO]",fake
+" This 2016 Hannity Tweet Is Now Like A Knife In The Back For Trump",fake
+" How Sh*tty Of A Birthday Must Ivanka Trump Be Having?",fake
+" Guilty As Hell Paul Manafort And Rick Gates Enter 'Not Guilty' Pleas In Russian Collusion Scandal (TWEET/VIDEO)",fake
+" This Is What Fox News Considered 'News' As Everyone Else Covered Indictment Of Trump Camp Manager",fake
+" Racists' Heads Will Explode When They Find Out White-On-White Crime Is Higher",fake
+" McCain Has The Best Laugh He's Had In 80 Years When He's Asked THIS About Donald Trump",fake
+" Attempts By Trump To Pardon Anyone Indicted By Mueller Could Backfire On Him In A BIG Way",fake
+" Here's What We ALL Need To Do If Trump Moves To Fire Mueller And Shut Down The Russia Probe",fake
+" The Numbers Are In: Statesspace Insurers Literally Say Obamacare Trainwreck Is TRUMP'S Fault",fake
+" Hillary Hilariously Ribs Fox Hosts For Their Insane Obsession With 'Impeaching' Her (VIDEO)",fake
+" The Internet Wrecks Tomi Lahren For Halloween Costume Which Violates U.S. Flag Code",fake
+" 'DO SOMETHING!': Trump Panics As Mueller's Investigation Closes In On Him",fake
+" Hillary Clinton TOTALLY Just Rubbed 'Indictment' Rumors In Trump's Big Orange Face (SCREENSHOTS)",fake
+" Twitter Just Banned A Major Trump Ally For Threatening Journalists (SCREENSHOTS)",fake
+" If You're Looking For Ways To Irritate Trumpspace Here Are Some Tips (IMAGES)",fake
+" BREAKING: The First Charges Have Been Filed In Mueller's Russia Investigation",fake
+" Trump's Puerto Rico Contract With Two-Man Energy Company Is Corrupt As F*ck",fake
+" WATCH: Former White House Official Suggests On Hannity That Hillary Clinton Should Be Executed",fake
+" Trump Just Closed The Office That Coordinates Russia Sanctions",fake
+" Yet Another Asshole Just Rammed A Bunch Of Protesters With His Car (VIDEO)",fake
+" Judge Who Barred A Mom From Seeing Her Baby For A Year Over Unpaid Fees Resigns",fake
+" Trump Just Got Banned From The Place Where He Proposed To Melania",fake
+" John Lewis Has the PERFECT Birthday Message For Hillary And Trump Will Be FURIOUS (TWEET)",fake
+" Milo Yiannopoulos Tells Aussies To Vote Against Marriage Equality Weeks After His Own Gay Wedding",fake
+" Trump's ICE Thugs Stop Ambulance Taking 10-Year-Old Girl With Cerebral Palsy To Surgery",fake
+" Alt-Right Trump Lover Loses His Sh*tspace Kills His Own Dad For Calling Him A Nazi",fake
+" WATCH: This Amazingly Aware Company Has Created A Brilliant Way To Document Trump's Dangerous Tweets",fake
+" Melania Trump Hit With SERIOUS Side-Eye After Telling Black Kids To Respect Each Other",fake
+" Trump Wets His Pants Over Bob Corker Againspace Corker Alerts The White House Daycare Staff",fake
+" GOP Senate Candidate Says Kids Were Murdered At Sandy Hook Because His God Was Angry",fake
+" WATCH: John McCain Mocks President Bone Spurs Over His Draft Deferments",fake
+" Soldier's Widow Finally Speaks: 'It Made Me Cry Even More' ' Trump Calls Her A Liar IMMEDIATELY",fake
+" Nursing Textbooks Recalled And Apology Issued For Racial Stereotypes Related To Pain Management",fake
+" Trump SCREAMS On Twitter After Seeing A Poll On Fox News",fake
+" Trump And John Kelly Just Got RIPPED APART By A Medal Of Honor Recipient (VIDEO)",fake
+" NRA Releases Fascist Ad Calling All Trump Critics 'Saboteurs' Whose Future Is 'Failure' (VIDEO)",fake
+" Trump Takes Credit For Releasing JFK Filesspace But The Bill Requiring It Was Passed 25 Years Ago",fake
+" Bill Maher Takes Down Trump's Lying Chief Of Staff In BLISTERING Rebuke (VIDEO)",fake
+" WATCH: Reporters DRAG Sarah Huckabee Sanders In Brilliant Fact-Check (VIDEO)",fake
+" Swastika-Covered Guy Gets Punched In The Face Outside Nazi Rally And It's Beautiful (VIDEO)",fake
+" Trump Gets His A** Handed To Him By British Lawmakers For Lying About Rising Crime Rate In UK",fake
+" Trump Brags he Owns An 'Original Renoir'space Yet The Real Painting Is Hanging In A Chicago Gallery",fake
+" Richard Spencer's Fascist Goon Squad Couldn't Keep Florida From Laughing His Nazi Ass Off The Stage",fake
+" W. Virginia Halloween Store Boasts Shockingly Racist Costume Display Featuring Pres. Obama (VIDEO)",fake
+" New Report PROVES Voter Suppression Handed Trump Wisconsin And Possibly The Whole Election",fake
+" WATCH: George W. Bush Calls Out Trump For Supporting White Supremacy",fake
+" The 'Fake Melania Trump' Conspiracy Theory Is Taking The Internet By Storm And It's Everything",fake
+" Trump HUMILIATED As WH Walks Back His Attack After Soldier's Mom Confirms His Insensitive Phone Call",fake
+" Trump WHINES Like A B*tch On Twitter After NFL And Democrats Tell Him To Go F*ck Himself",fake
+" Trump Finally Delivers On Promised Phone Call To Soldier's Wifespace Says The Most Disgusting Thing EVER",fake
+" God Bless Whoever Is Photoshopping These Hilariously Long Ties Onto Donald Trump",fake
+" Town Defends Official After Wife's 'N*gger' Rant On FBspace Says People Who Shared Post 'Just As Bad'",fake
+" McCain Responds With Zero F*cks To Give Over Trump's Threat",fake
+" Man In 'I Stand For The National Anthem' Shirt Thinks American Flag Is A Lawn Chair",fake
+" As 'Me Too' Posts Flood Social Mediaspace Video Surfaces Of Trump Bragging About Hiring A 'HOT' Teenager",fake
+" Robert De Niro Attends Charity Eventspace Tears Into That 'Motherf***er' Donald Trump",fake
+" Satanists Brilliantly Troll Anti-Gay Baker By Requesting A Birthday Cake For Lucifer (VIDEO)",fake
+" FCC Rebukes Trumpspace Refuses To Dismantle First Amendment Over His Petty Tantrums",fake
+" Tiffany Trump Is Sad As Hell After Whole Family Completely Forgot Her Birthday",fake
+" WATCH: Van Jones Scorches Insane Republican Who Think's Trump's Chaos Helps His Agenda",fake
+" Hustler Owner Is So Fed Up With Trump That He Is Offering $10 Mill For Dirt To Get Him Impeached",fake
+" Trump Administration Tries To Fix His Dumbest Statement Yetspace Fails MISERABLY (IMAGE)",fake
+" After Whining About NFL 'Disrespectspace' Trump Laughs And Jokes During Military Ceremony",fake
+" White Pro-Trump Pastor Tries To Rap Attack On Eminem And It's F*cking Hilarious (VIDEO)",fake
+" Puerto Rico's Governor Pleads For Help After Trump Threatens To Abandon Recovery Efforts",fake
+" Trump Finalizes Betrayal Of LGBT Community With First Speech To Hate Group By A President",fake
+" Trump Just Made A Major Threat To The Pressspace Jake Tapper's Response Is Perfect (VIDEO)",fake
+" WATCH: House Dem Has Had ENOUGHspace Formally Starts Impeachment Proceedings Against Trump",fake
+" Trump Threatens To Shut Down NBC In Early Morning Hissy Fit",fake
+" White House Confirms Resident Nazi Stephen Miller Is An Even Bigger Scumbag Than You Knew",fake
+" FEMA: It's 'Not Our Job' To Deliver Food And Water Relief To Puerto Rico",fake
+" Trump Just Asked The Most Unqualified Person Ever To Join His NAFTA Renegotiation Team",fake
+" GOP Lawmaker: Republicans Are Freaking Out About The 'Dysfunction' In The White House (VIDEO)",fake
+" Trump EXPLODES In Twitter Tantrum That Proves He's Mentally Unfit To Be President",fake
+" Black Man Beaten By Nazis At Pro-Trump Rally So Naturally Cops Charged HIM With A Crime",fake
+" Corker Has Last Word On Day Care Donnie: 'On The Path To WWIII'",fake
+" Pence Joins Trump's NFL Whinefestspace Leaves Colts Game In A Huff Over Police Brutality Protests",fake
+" If This Missouri Senate Candidate Is For Realspace He's A Real Subhuman Scumbag",fake
+" WATCH: Fox Anchor Chris Wallace Rips NRA Stooge A New One For Lying About Gun Control",fake
+" Outgoing GOP Senator BLISTERS The 'Adult Daycare Center' That Is Trump's White House (TWEET)",fake
+" One Of Trump's 'Very Fine People' Extradited To Charlottesville After Brutal Assault",fake
+" Nazis Whine Over Impending Release Of An Anti-Nazi Video Game (VIDEO/TWEETS)",fake
+" A New Low: Trump Exploits Las Vegas Shooting To Raise Money For His Campaign (TWEET)",fake
+" 'Charlottesville 3.0': Nazis Descend Upon College Town For Another Torch-Lit Rally (TWEETS/IMAGES)",fake
+" Conservative Dream Come True: Judge Grants Rapist Joint Custody Of Victim's Child",fake
+" Trump Whines About Late Night Hosts Making Jokes About Himspace Accuses Them Of Conspiring With Democrats",fake
+" Trump Supporter Laura Ingraham FAILS With Fake Photo Of Trump's Sh*tty Rally Crowd",fake
+" Trump's Latest Retweet Is Actually The Best Possible Metaphor For His Presidency (IMAGE)",fake
+" WATCH: Kellyanne Conway Very Upset Hillary Clinton Is Not Doing Trump's Job",fake
+" Fox And Friends Completely Panics And Cuts Segment Short Because A Democrat Showed Up (VIDEO)",fake
+" Paul Ryan Sharpens His Backstabbing Knifespace Prepares War With White House (VIDEO)",fake
+" Rabbis Cancel Annual Call With President Over Trump's Open Support Of White Supremacists",fake
+" We May Soon Know The Sources Of Christopher Steele's Trump 'Dossier'",fake
+" In The War Against ISISspace Trump Is Already Responsible For More Civilian Deaths Than Obama",fake
+" Want To Ride On Air Force One As A Senator? Then Be Prepared To Vote For Trump's Health Care Bill",fake
+" All Hell Breaks Loose At First Charlottesville City Council Meeting Since Nazi Rally",fake
+" Trump Supporter In Phoenix Just Threatened John McCain's Life",fake
+" NYT Bombshell: Trump And McConnell Not Speaking; McConnell Questioning Trump's GOP Future",fake
+" WATCH: Tucker Carlson Just Heaped Praise On Trump For Looking Directly At The Eclipse",fake
+" Trump Told More Than A Thousand Documented Lies In Only Seven Months (DETAILS)",fake
+" WATCH: Catholic Nun Gives Paul Ryan A Biblical Beatdown",fake
+" Stormfront Founder's Son Sounds Alarm About Trump And Nazis: 'He Salvaged Their Message'",fake
+" Steve Mnuchin's Spoiled Wife Just Went Apesh**t Over Criticism From A Random Instagram User (IMAGE)",fake
+" Did Ron Paul Just Confuse Al-Qaeda With ISISspace Or Does He Simply Not Know The Difference? (TWEETS)",fake
+" Congressional Black Caucus Signals That They Absolutely Intend To Impeach Trump",fake
+" Body-Slamming Republican Thought He Was Too Important To Be Bookedspace Printedspace Judge Says No Way",fake
+" Ron Paul Blames Obama For A Stock Market Crash That Hasn't Happened Yet",fake
+" GOP Lawmaker Blames Obama For Staging Racist Mayhem In Charlottesville",fake
+" Twitter Has Absolute Field Day Laughing At Trump For Blinding Himself During Eclipse",fake
+" Donald Trump Never Met A Disaster He Couldn't Make Much Worse",fake
+" Thousands Of Advertisers Are Fleeing From Fake News Site Breitbart",fake
+" Trump's Response To USS John S. McCain Collision Was Just Heartless",fake
+" Secret Service Officially Can't Afford To Pay Agents Thanks To Trump's Constant Golf Trips",fake
+" Bannon Takes His 'Weapons' At Breitbart; Smears 'Quran Kissing' McMaster In Scathing Hit Piece",fake
+" The One Major Reason Trump Won't Give Up On His Support For White Supremacists",fake
+" After Charlottesville GOP Asks Supporters How Trump Is Doing: Greatspace Goodspace Or Just Okay?",fake
+" Twitter BURNS Trump For Thanking White Supremacist Steve Bannon In Post Attacking Hillary Clinton",fake
+" KKK Leader Threatens To 'Burn' A 'N****r' Journalist During Off-The-Rails Interview",fake
+" NAACP: Bannon May Be Gone But Trump Is Still A Raging Bigot",fake
+" Resignation Letter To Donald Trump Has Secret Message To Resistance",fake
+" Even After Charlottesvillespace If You Hit Protesters With A Carspace Republicans Want To Protect You",fake
+" Bannon Allies: Breitbart Return Imminentspace Gear Up For War On Trump's 'Democrat White House'",fake
+" Watch Arnold Schwarzenegger Take On Nazis And White Supremacists In Scathing New Video",fake
+" Even Robert E. Lee Didn't Want Confederate Monuments To 'Keep Open The Sores Of War'",fake
+" REPORTS: Charlottesville Fallout Was The Final Nail In Bannon's Coffin",fake
+" OkCupid Wins The Internet With PERFECT Response To The Charlottesville Neo-Nazi On Their Site (TWEETS)",fake
+" Chamber Of Commerce Exec Makes Trump Pay For Charlottesvillespace Urges Charities To Boycott Mar-a-Lago",fake
+" Al Gore Has The PERFECT Piece Of Advice For Donald Trump",fake
+" Former Business Partner Predicts Prison For Trump Once He Tells Authorities What He Knows",fake
+" GOP Implodes As Trump Launches Nasty Public Fight Against Top Republican (TWEETS)",fake
+" Republicans Not Willing To Defend Trump On-Air According To Fox's Shep Smith",fake
+" Ivanka's Rabbi Breaks Ranksspace Roundly Condemns Trump On Charlottesville",fake
+" Watch This Nazi Cry Like A Little B*tch After Realizing He Might Be Arrested (VIDEO)",fake
+" The Republican Jewish Coalition Loves Trump So Much They FINALLY Condemned Nazis",fake
+" Trump Doubles Down Via The Lawspace Moves To Protect White Supremacists From Law Enforcement",fake
+" Donald Trump Tried To Manipulate Stock Market Against One American Company; It Worked For A Few Hours",fake
+" Top Republican Grows A Backbone After Charlottesvillespace Blames Trump For Dividing America (IMAGE)",fake
+" Clay Aiken Says He Was A 'F*****g Dumbass' For Thinking Trump Wasn't Racist",fake
+" Former US Labor Secretary Has Dire Warning: Trump Is Trying To Start A Civil War",fake
+" Even Robert E. Lee's Great-Great Grandson Wants Statues Torn Down",fake
+" Mitch McConnell Takes Aim At Trump For Praising Nazis",fake
+" Obama Tweet Makes Historyspace And Trump Will HATE The Reason Why",fake
+" Republicans Are Lashing Out At Trump Over His Disgusting Press Conference: 'Apologize'",fake
+" Trump Justice Department Is Going After Anyone Who Even THOUGHT Of Protesting Trump",fake
+" Trump Is FUMING Over Bad Charlottesville Pressspace Becomes A Terror In The White House (TWEET)",fake
+" KKK Grand Wizard David Duke THANKS Trump For Championing White Supremacy At Unhinged Presser",fake
+" He Finally Came Out And Said It: Trump Calls Protesters As Bad As Nazis",fake
+" Trump Lashes Out At CEOsspace Suggests He'll Replace Them With Ones Who Support His Racism",fake
+" Trump Goes 'Home' To Trump Tower After Racism Condemnationspace IMMEDIATELY Retweets Alt-Right Leader",fake
+" Protesters Welcome Trump Home To His Golden Tower With The Best #RESISTANCE Display Yet (IMAGE)",fake
+" Fox Host Goes Roguespace Shreds Trump's 'Cowardly And Dangerous' Charlottesville Remarks (VIDEO)",fake
+" Trump Crushed As Ex-KKK Leader Bashes Him For Finally Calling Out White Supremacy In Charlottesville (VIDEO)",fake
+" CNN Reporter Just Asked Trump The One Question We've All Wanted To Hear (VIDEO)",fake
+" Right-Wing Extremist Tries To Repeat Oklahoma City Bombing As Nazis Terrorize Charlottesville",fake
+" Republicans Actually Think White People Face More Oppression ' Seriously (DETAILS)",fake
+" Even Foreign Leaders Are Responding To Charlottesville Better Than Trump Did",fake
+" Trump Lashes Out At Black CEO For Resigning From Manufacturing Council After Charlottesville Murder",fake
+" Fox News Asks This Man For Pictures Of New York Solidarity March ' His Response Is PRICELESS",fake
+" Obama Just Made A Surprise Appearance At A Rap Show And Twitter Can't Handle It",fake
+" Charlottesville Vice-Mayor Responds To Trump's Silence On White Supremacyspace This Is BRUTAL (VIDEO)",fake
+" Tortured Snowflake Ivanka Trump Just Blocked A CONGRESSMAN On Twitter",fake
+" Trudeau Does What Trump Can'tspace Calls Out White Supremacy In America (TWEET)",fake
+" Nazi Website Praises Trump's Pathetic Response To Charlottesville Violence",fake
+" Hillary Puts Trump To Shame With Powerful Response To White Supremacist Riots (TWEETS)",fake
+" Ivanka Finally Breaks With Daddyspace Strongly Denounces White Supremacists (TWEETS)",fake
+" Trump Suspects Bannon Is The White House Leaker. But Who Leaked THAT?",fake
+" President Obama Says What Trump Cannot Say Following Murder In Charlottesville",fake
+" Marco Rubio Calls Out Trump For His Refusal To Acknowledge The Heinous White Supremacist Violence",fake
+" Just In: One Dead After Trump-Loving Nazi Uses Car To Mow Down Dozens Of People",fake
+" Trump Is Now Talking About Going To War With Three Countries",fake
+" Trump Goes Mental On Threats To North Koreaspace This Is His Most Dangerous One Yet (VIDEO)",fake
+" Trump's DC Hotel Raised Price And Made Millions In Months Off His Presidency",fake
+" Trump's Rhetoric Just Resulted In A Trillion Dollar Economic Loss Worldwide",fake
+" This Old Tweet From Trump Reveals The REAL Reason He's Trying To Start A War",fake
+" Trump Is Raising Your Healthcare Premiumsspace And That's A Fact",fake
+" Donald Trump Just Announced Another Position For Ivanka And Americans Are Outraged",fake
+" Putin Just Spit In America's Face And Trump THANKED Him For It (DETAILS)",fake
+" BREAKING: Republican Senate Hopeful Speaks His Mindspace Says Putin Is Rightspace America Is Evil",fake
+" Trump Started A War With McConnell And The Oldest GOP Senator Is Coming For Him Guns Blazing",fake
+" Trump Comes For McConnell AGAIN With Latest Statement: 'Fulfill My Campaign Promises For Me Or Quit'",fake
+" Donald Trump Doubles Down On Korea Threat; Says He Wasn't Tough Enough",fake
+" Breitbart Editor Gets Roasted Alive On Twitter After Saying Images Of Lady Liberty Are An 'Attack On The Right'",fake
+" Trump Demands Mitch McConnell 'Get Back to Work' While Vacationing From Vacation",fake
+" BREAKING: It Was Manafort Who Told Gov About Trump Jr. Russian Meeting ' And Trump Is Coming For Him",fake
+" Trump Tries To Blame Obama For North Korea Messspace It Immediately Backfires (TWEETS)",fake
+" Mooch Changes His Tunespace Says Reporter 'Absolutely' Recorded Him Without Permission",fake
+" Desperate For Membersspace White Supremacists Beg Rally Goers To Make It 'Sexy' ' No Joke",fake
+" BREAKING: FBI Carried Out Warrant On Republican Congressman (DETAILS)",fake
+" #TrumpChicken Is Now Trending And These Tweets Are Hilarious (IMAGES)",fake
+" Trump Golfs While Threatening Nuclear Warspace Then Tries To Cover It Up (IMAGES)",fake
+" BREAKING: North Korea Responds To Trump Threatsspace Crossing Trump's Red Line",fake
+" This Fantastic Obama Speech Shows Us How A REAL President Would Be Acting Right Now (VIDEO)",fake
+" Melania Gives Up On Cyberbullying After Trump's North Korea Threatsspace Turns To Drug Addiction",fake
+" Walmart Forced To Apologize After Store Tells Kids To 'Own The School' With Guns",fake
+" Totally-Not-Running-For-President Pence Signals Yet Again He's Running For President",fake
+" Activists Brilliantly Troll Chickenhawk Trump Behind The White House (IMAGES)",fake
+" Allies Abroad: Trump Is A 'Laughingstockspace' Childishly 'Obsessed With Obama'",fake
+" Obama Admin Official Just Humiliated Trump By Calling Out His Nuclear Weapons Lie",fake
+" Trump Aides Scramblespace Say Donald Trump's Threats Weren't Seriousspace 'Just His Mood'",fake
+" IT'S ON: Toddler Trump Hears Critical McConnell Statementsspace Promptly Starts To Lose It (TWEETS)",fake
+" The Sleazy Shot Trump Just Took At Manafort Proves He's Terrified",fake
+" It's Happening: FBI Carries Out Predawn Raid On Trump Associate's Home (DETAILS)",fake
+" Trump Brags About How Powerful America's Nuclear Arsenal Is In Scary Twitter Post",fake
+" 10 Reasons Donald Trump And Kim Jong-Un Are Basically The Same Person",fake
+" Sean Hannity Swears He'll 'Stop Petty Political Disagreements For 12 Hoursspace' Miserably Fails (TWEETS)",fake
+" George Takei's Latest Twitter Poem Roasts Trump's Idiotic North Korea Statement To Perfection (TWEET)",fake
+" Trump Has Been Wanting To Nuke North Korea For At Least 18 Years (VIDEO)",fake
+" 'Might Have Been Faked By Liberals': Top Adviser Defends Trump's Silence On Mosque Bombing",fake
+" McCain Opens Up A Can Of Whoop A** On Trump For Threatening North Korea With Nuclear War",fake
+" In Publicspace Trump Calls The Investigation A Witch Hunt ' In Private He's Trying To Influence Mueller",fake
+" Trump's Brilliant Solution To Opioid Crisis: Just Tell Youth 'No Goodspace Really Bad For You' (VIDEO)",fake
+" RNC Chair's Comment Reveals Why Republicans May Never Turn On Trump",fake
+" GOP Explodes As Mitch McConnell Directly Blames Trump For Republican Failures (DETAILS)",fake
+" Trump Just Threatened Nuclear War And The Internet Exploded With Outrage",fake
+" Donald Trump Is Acting Just Like Kim Jong: Threatens NK With Nuclear War",fake
+" The Realspace Damning Reason Trump Opened Fire On Blumenthal Via Twitter (DETAILS)",fake
+" The Anne Frank Center Just Nailed Trump To The Wall For His Latest Hitler-Like Moves",fake
+" Pat Robertson Is Having A Total Meltdown And It's All Thanks To Rachel Maddow",fake
+" Victims Of Terrorist Attack Question Lack Of Presidential Support",fake
+" Elderly California Man Just Savaged A GOP Congressman To His FACE",fake
+" The Leaker-In-Chief Just Tweeted Classified Info To His 35 Million Followers",fake
+" Senator Who Has Accomplished Nothing Is Very Upset People Think He's Accomplished Nothing",fake
+" Breaking: MAJOR Action Taking Place At Trump Tower As Activists Project Messagesspace Demonstrate (IMAGES)",fake
+" Three Days Before Trump Calls For More Police Brutalityspace Young Protester Is Violently Removed From Trump Rally",fake
+" Official GOP Twitter Account Went Fully Delusional And Americans Are NOT Letting Them Live It Down (TWEETS)",fake
+" Hey Trump Fans: Trump Hasn't Improved The Economy One Single Bitspace And Here's Proof",fake
+" Leaked Secret Government Report Shows Massive Impact Of Climate Change On The United States",fake
+" Trump Loves To Say The New York Times Is 'Failing' ' So They Just Effortlessly Embarrassed Him With Simple Numbers",fake
+" Rainspace Rain Go Away: Toddler Trump Throws Record-Breaking Tantrum Because He Can't Golf",fake
+" Average Trump Cabinet Member Stands To Profit By Hundreds Of Thousands From Tax 'Reform'",fake
+" Republican Senator Predicts Trump's Next Big Legislative Push Will Fail Just Like Trumpcare",fake
+" Five Times Five-Time Draft Dodger Donald Trump Insulted Those Who Actually Served",fake
+" Donald Trump Just Tweeted An Incredibly Obvious Lie And Got Fact-Checked In Real Time (TWEETS)",fake
+" Report: Corrupt Wall Streeters Are Three Times More Likely To Go Unpunished Under Trump",fake
+" Key Trump Supporter And Major Donor: Trump Is 'Incompetentspace' 'Disaster'",fake
+" It's Official: The United States Government Is Censoring Climate Data",fake
+" Old Man On Vacation Angrily Live-Tweets Show He 'Never Watches'",fake
+" Military Veterans HUMILIATE Trump For Attacking Senator's Military Record",fake
+" Trump's FCC Makes Major Move To Put His Propaganda On Every American TV",fake
+" George Takei Just Lasered Trump With Some Perfectly Timed Expert Advice (TWEET)",fake
+" Trump Posts INSANE Tantrum About The Media While Supposedly 'Working' On Vacation",fake
+" It Took A Democratic Governor To Finally Call The Mosque Bombing Terrorism",fake
+" Republicans Kill Trump's Dream To Repeal Obamacarespace Ready To Work With Democrats (DETAILS)",fake
+" Al Gore Tells Bill Maher: Get Rid Of Electoral Collegespace 'Time For A Popular Vote'",fake
+" Kellyanne Conway On Trump Administration's Lies: But What About Benghazi! (VIDEO)",fake
+" Former FBI Agent: 'Stay Tuned' Because Mueller Is Hot On Trump's Trail (VIDEO)",fake
+" BOMBSHELL REPORT: GOP Looks To Dump Trumpspace Secret 2020 Shadow Campaigns Already Underway",fake
+" Trump Panics Over Russia Scandalspace Kisses Up To Sessions After Trashing Him For Weeks (TWEET)",fake
+" This State Is Honoring Obama And Sending A Middle Finger To Trump At The Same Time ' You Can Bet He'll Be Fuming",fake
+" Trump MELTS DOWN On Vacationspace Tries To Pretend He's Actually Working (TWEETS)",fake
+" Pathetic: Trump Actually Needs A General To Babysit Him Constantly",fake
+" McCain Exposes How Capitol Hill Republicans REALLY Feel About Trump",fake
+" BAD NEWS For Trump: His White Voter Base Just Abandoned Him",fake
+" Another Fox Host Just Got Busted Sexually Harassing Female Staff",fake
+" Trump Just Used His Twitter To Break The Law In The Dumbest Way Imaginable",fake
+" The Russia Investigation's Special Counsel Just Made Trump's Problems A Whole Lot Worse",fake
+" Emboldened NRA Threatens New York Times: 'We're Coming For You' (VIDEO)",fake
+" Kellyanne Conway Just Humiliated Herself On National TVspace Displays STUNNING Incompetence (VIDEO)",fake
+" Republicans Respond To Trump's Threatsspace Presidency In Freefall (DETAILS)",fake
+" Remember Trump's Biggest Campaign Promise? Yeahspace Wellspace He Was Just Kidding",fake
+" Chuck Todd Has No F*cks To Givespace Says Jeff Sessions Can Take His Threats And Shove It",fake
+" WATCH: Fox Host Calls For Revolt If Grand Jury Indicts Trump",fake
+" Senate Has Had Enough Of Trump's Obstructionspace Handcuffs His Ability To Appoint An AG To Fire Mueller",fake
+" Newsweek's Latest Cover Effortlessly Demolishes 'Lazy' Trumpspace Meltdown Imminent (IMAGE)",fake
+" The Gun Industry Is Hating Trump And The GOPspace And The Reason Why Is Hilarious",fake
+" Thanks To Trumpspace 'Local Milk People' Is Trendingspace And That's Not Weird AT ALL",fake
+" Top Republicans TRASH Trump's Immigration Proposalspace GOP In Pieces (TWEET)",fake
+" REPORT: Team Trump Ordered Border Patrol To Defy Members Of Congress In Original Muslim Ban",fake
+" Australia Prime Minister Tells Trump To Man Up And Accept Refugees Because 'A Deal's A Deal'",fake
+" Trump Got Another Totally Real Letter From A Not Fake Kid Who Loves Him And No One's Buying It",fake
+" McCain Just BRUTALLY Called Out Trump For His Hypocritical Support Of Russia",fake
+" New Dramatic Poll Shows Just How Much Trump Has Humiliated Americans (DETAILS)",fake
+" Trump Experiments With State-Run TV And Gets Laughed Off The Internet",fake
+" Mueller Brings In Bribery Specialist To Crack Open Trump's Russian Piggy Bank",fake
+" Chelsea Clinton Teaches Trump How To Treat The White House With Respect",fake
+" Trump Humiliated By Being Forced To Sign Russia Sanctions Bill Which Limits His Power",fake
+" 'Auntie' Maxine Waters' Showdown In Senate Inspires Gospel Anthem For The Silenced",fake
+" Bush Ethics Lawyer Slams Trump: He Can't Go 'One Week' Without Obstructing Justice [VIDEO]",fake
+" You Won't Believe Who The White House Wants To Replace Scaramucci With",fake
+" Lindsey Graham Is Getting All War Tingly Again After Talking To Donald Trump",fake
+" The Most Hated Man In Corporate America Wants Scaramucci's Jobspace Because Why Not?",fake
+" BUSTED: Fox News Worked With Trump To Circulate Fake News On Seth Rich Conspiracy Theory",fake
+" GOP Congress Just Delivered Trump The Biggest Insult Possible; They Are Completely Ignoring Him",fake
+" Trump Put Himself In Deep Sh*tspace Personally Drafted Statement Lying About Jr's Russia Meeting",fake
+" Trump's White House Team Is So Dumb They Fell For Fake Emails (IMAGE)",fake
+" Details Are Emerging About The Mooch Firing And It Was Brutal",fake
+" This Old Anthony Scaramucci Tweet Must Be VERY Uncomfortable Right Now",fake
+" Secret Memo Shows That Every Single Congressman Could Be Hit In Russian Investigation",fake
+" Rick Perry Is Mocked Over Nukes By Secretary Whose Job He Thought He Was Getting",fake
+" White House In Chaos As Trump Fires Scaramucci After Only 10 Days On The Job",fake
+" Craziest Person In Congress Wants To Investigate Everyone BUT Trump; Maybe You're On The List",fake
+" WATCH: Trump Really Does Think He's On A West Wing Edition Of 'The Apprentice'",fake
+" Trump Whines About Obamacare And Takes Credit For Obama's Economy In Delusional Morning Rant",fake
+" Tomi Lahren Blasts ObamaCarespace Admits She's Still On Parents' Health Insurance [VIDEO]",fake
+" Joe Biden Proves He's A MUCH Better Negotiator Than Trump; He Helped Save Obamacare",fake
+" McCain F*cked Over Senate Republicans On Trumpcare In A Much Better Way Than We Already Knew",fake
+" Maxine Waters Reveals The REAL Reason Pence Is Putting Up With Trump's Madness",fake
+" Ted Nugent Breaks Civility Pledge With Unhinged Obama Rant For No Apparent Reason",fake
+" It's Not Over: Trump's Tantrums Drive Senate GOP To Take Aim Yet Again At Healthcare",fake
+" Trump HUMILIATED As His Approval Rating Is Now Even Lower Than Clinton's During Sex Scandal",fake
+" WATCH: Internet Hilariously Mocks Trump For Not Killing His Own Flies Like President Obama",fake
+" White Man Murders Cop And Racist Media Stays Silent",fake
+" Federal Court Rules Against Trump's Unpresidential Twitter Behavior (DETAILS)",fake
+" New Report Says Trump Destroyed Scaramucci's Marriage",fake
+" BREAKING: Trump Kicks Reince Priebus Out Of White House (TWEET)",fake
+" Scaramucci's New Yorker Interview Is More Than Just Grossspace It May Be A Felony",fake
+" Trump Admin Deals STUNNING Threat To Alaska Over Their Senator's 'No' Vote On ACA Repeal",fake
+" Insane Racist Fired For Death Threats Against Muslims 'Parked Too Close' At Walmart",fake
+" Trump Awards Woman The Medal Of Valor Then Kisses Her",fake
+" The GOP Senate Just Set A Huge Trap For Trump; He'll Be Screwed No Matter What He Does",fake
+" Democratic Twitter Hero Ted Lieu Taunts Trump Over Just-Passed Russia Sanctions",fake
+" Anthony Scaramucci Just Said Some Weird Stuff About Steve Bannon's 'C*ck'",fake
+" Trump-Touted Wisconsin Deal Forces Taxpayers To Shell Out $3 Billion",fake
+" GOP Senator Has Had ENOUGH: Firing Mueller Could End Trump Presidency (VIDEO)",fake
+" Boy Scouts Forced To Apologize On Trump's Behalf",fake
+" GOP Rep Blames Media For Trump's Attacks On Sessions",fake
+" Trump's White House IMPLODES As Kellyanne Conway Attacks Fellow Top Staffer (VIDEO)",fake
+" Trump Gets HUMILIATED By His Own Joint Chiefsspace Contradict His Transgender Ban",fake
+" WATCH: Scaramucci Flips Out Over White House Leaksspace Sends Ominous Warning To Reince Priebus",fake
+" Trump Is Trying To Make It Illegal For Groups Of People He's Screwed To Sue Him",fake
+" Trump's Salary Donation Is Just Bullsh*t PRspace And Here's Why",fake
+" Trump Will 'Torture' Sessions Every Day Until He Resigns: Report",fake
+" Trump's Approval Rating Takes Game-Changing Turn In 11 Pro-Trump States (DETAILS)",fake
+" Transgender Navy SEAL Hero Dares Trump: Tell Me To My Face I'm Not Worthy Of Serving",fake
+" Trump Attacks Sessions Again For Not Helping Him Obstruct Russia Investigation",fake
+" Trump Goes On Stunningly Bigoted Rantspace Says He Will Not Allow Military Service Of Transgender Soldiers",fake
+" Apparentlyspace Trump Is Sad He Has No Eric Holder",fake
+" Former CIA Chief Blasts Trump's Speech To Boy Scouts: 'Like Watching A Dictator'",fake
+" Trump's Lawyers Say Encouraging Reasonable Force Against Protestors Is 1st Amendment Right",fake
+" Trump Says 'Illegals' Are Here To Chop Up Teen Girls With Knives Because Shooting Them Isn't Painful Enough",fake
+" She Might Be The Last Decent Republican In Americaspace And This Audio From A Hot Mic Proves It",fake
+" American Psychoanalytic Association Gives Members Permission To Diagnose Trump's Mental Health",fake
+" Top Republican Senator BLISTERS Trump For Demanding The DOJ Persecute Hillary Clinton",fake
+" WATCH: Republican Lawmaker Has Finally Had Enough Of Trump's Bullsh*t",fake
+" Trump Has Total UNHINGED Scatter-Brained Mental Meltdown For The Entire World To See",fake
+"U.S. tax negotiators raising refundable portion of child tax credit: congresswoman",real
+"Republicans have finalized compromise U.S. tax bill -chief House tax writer",real
+"Republican Senator Rubio will back tax bill: CNBCspace citing sources",real
+"Exclusive: Senator Cruz wants to cap renewable fuel credits at 10 cents - document",real
+"Trump administration issues new rules on U.S. visa waivers",real
+"Trump urges Moore to concede Alabama Senate race",real
+"Net neutrality repeal gives Democrats fresh way to reach millennials",real
+"As Republican tax vote nearsspace more senators waver",real
+"Factbox: Trump on Twitter (December 14) - Stock marketspace federal regulations",real
+"House committee questions head of Trump campaign data firm: sources",real
+"Republican governors meet with Pence over NAFTA concerns",real
+"Factbox: Provisions of the U.S. Republicans' final tax bill",real
+"House Speaker Ryan mulls retirement after 2018 elections: Politico",real
+"Republican Representative Farenthold will not seek re-election",real
+"Alabama Senate race winner urges Republican rival to 'move on'",real
+"Fund managers seek stocks benefiting from Democratic gains in 2018 U.S. elections",real
+"Factbox: Republicans to keep an eye on as Senate nears vote on tax bill",real
+"Republican House Speaker Ryan told Trump retirement report was rumors were not true: White House",real
+"White House says will work with Rubio on child tax credit",real
+"Republican Senator Lee undecided on tax billspace seeks child credit changes: aide",real
+"U.S. tax bill to preserve key renewable energy creditsspace sources say",real
+"U.S. bill to allow property and income or sales tax deductions: key lawmaker",real
+"Senator McCain will vote on tax bill -No. 2 Republican",real
+"Nominee for U.S. EPA chemical safety withdraws: Bloomberg",real
+"Senators Burrspace Tillis oppose Trump's EPA nominee Dourson: reports",real
+"Pence delays Middle East trip in case needed for U.S. tax vote",real
+"Kentucky lawmaker a 'probable suicide' amid sexual misconduct accusations",real
+"Mulvaney says U.S. tax bill votes could be Tuesdayspace Wednesday: CNBC",real
+"Donald Trump Jr. wants 'leak' probespace as Congress' Russia probes press on",real
+"Do not expect postcard-sized tax return from Republican plan: experts",real
+"Republicans forge tax dealspace final votes seen next week",real
+"Alabama win thrills Democrats as Republicans point fingers",real
+"Trump's eldest son testifies to Senate committee in Russia probe",real
+"What is in the Republicans' final tax bill",real
+"Factbox: What is in the U.S. Republicans' final tax bill",real
+"Minnesota lieutenant governor to replace Franken in Senate",real
+"Stop-gap bill unveiled to fund U.S. government until Jan. 19",real
+"Senior justice official dismisses Republican charges of bias in Trump probe",real
+"Senator McCain treated for side effects of cancer therapy",real
+"Trump 'dossier' firm: Republicans leaked bank records in retaliation",real
+"Two Trump judicial nominations rebuffed by Senate",real
+"U.S. prepares to open doors on billion-dollar London embassy",real
+"In elaborate hoaxspace websites say NFL Redskins renamed as Redhawks",real
+"After Alabama upsetspace Democrats see new prospects in U.S. South",real
+"Schumer: delay tax overhaul vote until new Alabama senator seated",real
+"Republican Senator Corker says he is still undecided on tax bill",real
+"Control of Virginia state House at stake as recounts begin",real
+"Trump says he would accept 21 percent corporate tax rate",real
+"House and Senate reach deal on U.S. tax legislation: Hatch",real
+"U.S. House to stop using public funds for harassment settlements: speaker",real
+"U.S. House and Senate leaders reach agreement 'in principle' on tax plan: AP",real
+"White House aide Omarosa Manigault Newman resigns",real
+"Analyst View: Democrat Jones wins Alabama U.S. Senate seat in blow to Trump",real
+"Top U.S. Senate Democrat hopeful Congress will help 'Dreamers' by year end",real
+"Senator Gillibrand calls Trump Twitter post 'sexist smear'",real
+"Trump loses his big bet on Alabama U.S. Senate race",real
+"FBI officials said Clinton 'has to win' race to White House: NYT",real
+"Trump congratulates Democrat for Alabama U.S. Senate victory in tweet",real
+"Prayerspace principle guide women voters in Roy Moore's Alabama hometown",real
+"Democrat wins U.S. Senate seat in Alabama in setback for Trump",real
+"Factbox: Trump on Twitter (December 12) - Democratsspace Kirsten Gillibrandspace Chuck Schumer",real
+"Crucial details of Republican tax plan in flux as deal deadline looms",real
+"Tillerson seeks to ease skepticism about U.S. State Department reorganization",real
+"Trump to meet Housespace Senate tax cut negotiators Wednesday: White House",real
+"Republicans propose to delayspace pause Obamacare taxes",real
+"Trump signs into law U.S. government ban on Kaspersky Lab software",real
+"Senator Grassley expresses reservations on two Trump judge nominees",real
+"U.S. judge orders special counsel to turn over evidence on Michael Flynn",real
+"U.S. Congress to let Iran deadline passspace leave decision to Trump",real
+"Senators say effort to protect 'Dreamers' making progress",real
+"Trump's attack on Senator Gillibrand 'nasty': Senator Schumer",real
+"House Speaker Ryan says he believes upbeat Treasury tax study",real
+"Senate leader says he's confident of deal to keep government open after Dec. 22",real
+"White House to host fresh biofuels talks to help refiners: sources",real
+"Trump will announce new U.S. security strategy on Monday: adviser",real
+"Trump signs defense policy billspace urges U.S. Congress to fund it",real
+"Trump's push to cut federal jobs has modest impactspace mostly in defense",real
+"Cuba tells U.S. suspension of visas is hurting families",real
+"Republican Moore embraces Trump message on eve of Alabama election",real
+"Women accusing Trump of sexual misconduct seek congressional probe",real
+"U.S. House Democratic women seek probe of Trump misconduct accusations",real
+"Judge tells ex-Trump adviser Manafort to stop communicating with media",real
+"U.S. military must accept transgender recruits by Jan. 1space judge rules",real
+"Nuclear plan backer denies Inauguration Day text with top Trump aide",real
+"U.S. Treasury tax study slammed as 'fake math' by Democrats",real
+"U.S. Treasury adds cash management measures due to debt limit",real
+"Factbox: Women who have accused Trump of inappropriate conduct",real
+"Nearly half of Americans still oppose Republican tax bill: Reuters/Ipsos poll",real
+"Justice Department reviewing options after ruling on transgender recruits: White House",real
+"Haley: Women accusers should be heardspace even if Trump is target",real
+"Exclusive: Contenders emerge for No.2 Fed jobspace search to narrow",real
+"Trump to give speech on U.S. tax overhaul on Wednesday: White House",real
+"Powell faces early test of policy view as tax cuts near approval",real
+"Roy Moore campaign casts Alabama race as referendum on Trump",real
+"Democrats eye gains in Pennsylvania trial on 'goofy' gerrymandering",real
+"Trump urges Alabama voters to back Roy Moore",real
+"Senator Collins says undecided on final tax bill vote",real
+"Trump attends civil rights museum opening; black leaders stay away",real
+"Ukrainian author of Manafort op-ed says sought input to avoid errors",real
+"Special Counsel Mueller filing shows Manafort drafted Ukraine op-ed despite gag order",real
+"Trump lifts refugee banspace but admissions still plummetspace data shows",real
+"Trump on Twitter (Dec 8) - Hanukkahspace Roy Moorespace Wells Fargo",real
+"U.S. lawyer defending travel ban grilled in court over Trump's tweets",real
+"U.S. House committee 'may reconsider' WHO cancer agency funds",real
+"Trump senior aide Dina Powell to resign early next year: White House",real
+"Special Counsel Mueller produces evidence that Manafort drafted op-ed",real
+"U.S. top court takes up Republican challenge to Maryland electoral district",real
+"White House pressures Big Corn to meet on U.S. biofuels policy",real
+"Former Trump adviser interviewed in Congress in Russia probe",real
+"Farenthold should resign if misconduct accusations true: senior House Republican",real
+"Congressman Franks says resigning immediately",real
+"U.S. tax revamp still incomplete as Republicans eye social program cuts",real
+"Special election to replace Conyers to be held Nov. 2018: governor",real
+"Trump signs temporary spending bill as budget talks intensify",real
+"U.S. tax repatriation plan may not cure long-term dollar weakness",real
+"Aide tries to refocus tax debate after Trump's corporate rate remark",real
+"Franken and Franks resign as misconduct charges batter Congress",real
+"Rep. Franks to resign after staff members' complaints of harassment",real
+"Aide tries to refocus U.S. tax debate after Trump's corporate rate remark",real
+"Millions would lose mortgagespace gift write-offs under U.S. tax bill: study",real
+"Blackwater founder Prince details meeting with Russian in Seychelles",real
+"Congress averts government shutdown for now",real
+"Civil rights pioneer to eschew museum opening after Trump says will attend",real
+"Judge presiding over Michael Flynn criminal case is recused: court",real
+"House ethics panel probing Rep. Farenthold over harassment allegations",real
+"Factbox: Trump on Twitter (December 7) - Pearl Harbor Remembrance Day",real
+"House Intelligence chairman cleared of disclosing classified information",real
+"Paul Manafortspace Special Counsel Mueller tussle over Ukrainian op-ed",real
+"Congress passes bill to temporarily fund governmentspace avert shutdown",real
+"Trump open to biofuel policy reformspace senators say after meeting",real
+"House approves stop-gap government funding bill",real
+"Manafort's work on draft op-ed does not violate gag order: defense lawyer",real
+"Exclusive: White House doesn't foresee shutdownspace Trump wants 20 percent corporate tax",real
+"Libya says pushing to be removed from Trump travel ban list",real
+"Pelosi says Democrats will not back short-term funding bill on Thursday",real
+"Pentagon wants 12 month procurement time for major weapons programsspace official",real
+"FBI Director Wray defends bureau in wake of Republican criticism",real
+"President's son had legitimate reasons to not answer House panel questions: White House",real
+"Senate confirms top EPA enforcement official",real
+"Funding bill clears hurdle in House",real
+"Exclusive: U.S. regulators offer Congress olive branch on loans",real
+"White House says focused on getting lowest possible corporate tax rate",real
+"U.S. lawmakers propose ban on arbitration of sexual misconduct claims",real
+"Ryan feels good about spending billspace wants budget cap talks",real
+"Democratic Senator Franken to resign: CNNspace citing sources",real
+"U.S. Interior Department wants more oil drillingspace expedite ANWR permits",real
+"Franken to make 11:45 a.m. announcement after harassment accusations",real
+"Democratic Senator Franken faces pressure to resignspace announcement looms",real
+"Trump administration sides against unions in high court fees case",real
+"Trump's eldest son questioned in Congress about Russia",real
+"Democratic lawmakers question Kushner on New York property: letter",real
+"'Good to go': Top Trump aide gave inaugural day ok to nuclear plan - congressman",real
+"Factbox: Trump on Twitter (December 6) - Americaspace California's wildfires",real
+"U.S. appeals court hears arguments on Trump travel ban",real
+"Trump warns of government shutdown threat ahead of meeting with lawmakers",real
+"Trump would sign bill that funds government through December 22: statement",real
+"Senate votes to pursue tax bill negotiations with House",real
+"Bill letting people bring concealed guns across state lines passes U.S. House",real
+"Senator Franken to resign on Thursday: Minnesota Public Radio",real
+"Factbox: Corporate alternative minimum tax threat hits pharmaspace tech",real
+"Trump hopes to avoid government shutdown in meeting with lawmakers: White House",real
+"Senate votes to begin tax bill negotiations with House",real
+"Alabama Democrat turns up attacks on Roy Moore in Senate race's final stretch",real
+"Corporate AMT likely will not be in final U.S. tax bill: Hatch",real
+"U.S. attorney general calls for efficient review of immigration cases",real
+"Utah Republicans defend Romney after Bannon's 'Mormon' jab",real
+"Cuts to homeowner tax breaks could cost Republicans in 2018 races",real
+"Justice Department seeks warrant to seize ancient ring trafficked by ISIS",real
+"No. 2 Democrat in Senate calls on Franken to resign",real
+"Congress tax negotiators may have final bill before Dec. 22",real
+"Senator Frankenspace facing resignation callsspace to make announcement on Thursday: office",real
+"Trump ally Bannon campaigns for Moore in Alabama",real
+"You're wrong'space Tillerson says of reports he will be fired",real
+"Senate to vote later on Wednesday to work with House on tax bill: McConnell",real
+"Trump's first year in office marked by controversyspace protests",real
+"Democrats flex muscles as Congress confronts a government shutdown",real
+"Factbox: Trump on Twitter (December 5) - Utah national monuments",real
+"House tax positions begin to emerge ahead of talks with Senate",real
+"Republican Party backs Senate candidate Moore: official",real
+"Senate confirms Trump's pick for Homeland Security secretary",real
+"House passes measure to limit aid to Palestinians over 'martyr payments'",real
+"Trump lawyer denies Deutsche Bank got subpoena on Trump accounts",real
+"Senate committee advances bill easing banking regulations",real
+"Trump lawyers say judge lacks jurisdiction for defamation lawsuit",real
+"Mueller's Russia probe cost his office $3.2 million in first four months",real
+"Credit union sues to block Mulvaney from leading CFPB",real
+"Senior lawmaker Conyers leaves U.S. Congress after harassment accusations",real
+"House Republican tax chief says lawmakers want AMT repeal",real
+"White House says government shutdown always a possibility",real 
+"Exclusive: Trump names career diplomat to head Cuban embassy - sources",real
+"Trump lawyer: Deutsche Bank has not received subpoena for Trump records",real
+"Trump says tax conference will go wellspace 'pretty quickly'",real
+"Trumpspace Obama dominate Twitter yearspace but chicken nuggets prevail",real
+"Former Trump aide nomination to be Singapore envoy stalled over Russia concerns",real
+"House Republicans mull length of spending bill as vote looms",real
+"Factbox: What to watch in negotiations over details of U.S. tax bill",real
+"Tillerson seeks to reassure worried Europe over Trump",real
+"House tax panel chair to urge longer-lasting individual tax rate cuts",real
